@@ -133,7 +133,7 @@ const PageTitle = () => {
 
   return (
     <Head>
-      <title>{marketTitleString}Mango Markets</title>
+      <title>{marketTitleString}Lulo</title>
     </Head>
   )
 }
